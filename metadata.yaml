@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34627'
     url: http://www.gutenberg.org/2009/agents/34627
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30470#The-Winning-of-Popular-GovernmentA-Chronicle-of-the-Union-of-1841
 gutenberg_issued: '2009-11-13'
 gutenberg_type: Text
 identifiers:
