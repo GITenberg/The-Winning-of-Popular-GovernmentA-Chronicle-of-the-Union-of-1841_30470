@@ -1,0 +1,30 @@
+_repo: The-Winning-of-Popular-GovernmentA-Chronicle-of-the-Union-of-1841_30470
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacMechan, Archibald
+    alias: MacMechan, Archibald McKellar
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '34627'
+    url: http://www.gutenberg.org/2009/agents/34627
+description: ''
+gutenberg_issued: '2009-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30470'
+  lccn: '16021429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- 1841-1867'
+title: 'The Winning of Popular Government
+
+  A Chronicle of the Union of 1841'
+url: http://www.gutenberg.org/ebooks/30470
